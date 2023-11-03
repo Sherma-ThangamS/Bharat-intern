@@ -1,6 +1,6 @@
 # Bharat Internship - Data Science Projects
 
-Welcome to my Data Science project repository, showcasing the outcomes of my internship with Barat. These projects span various domains and reflect my dedication to delivering data-driven solutions.
+Welcome to my Data Science project repository, showcasing the outcomes of my internship with Bharat. These projects span various domains and reflect my dedication to delivering data-driven solutions.
 
 ## Project Highlights
 
@@ -29,7 +29,7 @@ Welcome to my Data Science project repository, showcasing the outcomes of my int
  Clone this repository to your local machine:
 
    ```bash
-   git clone [https://github.com/your-username/bharat-internship.git](https://github.com/Sherma-ThangamS/Bharat-intern.git
+   git clone https://github.com/Sherma-ThangamS/Bharat-intern.git
 ```
 ## Usage
 
